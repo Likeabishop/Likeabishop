@@ -8,7 +8,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![JEE](https://img.shields.io/badge/jee-%2300FF00.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 # 📊 GitHub Stats:
-[![Karabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likeabishop)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likeabishop&show_icons=true&theme=radical)
 
 
 ## 🏆 GitHub Trophies
