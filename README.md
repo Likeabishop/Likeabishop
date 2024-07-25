@@ -8,9 +8,8 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![JEE](https://img.shields.io/badge/jee-%2300FF00.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Likeabishop&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Likeabishop&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Likeabishop&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+(https://github-readme-stats.vercel.app/apiLikeabishop=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Likeabishop&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
